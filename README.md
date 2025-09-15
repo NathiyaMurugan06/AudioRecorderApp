@@ -12,22 +12,22 @@ This project is part of a **Mobile App Developer assignment**.
 - ▶️ Play back saved recordings  
 - 📱 Recording continues in background when app is minimized  
 - 📞 Handles microphone interruptions (e.g., phone calls)  
-  - ⏸️ Automatically pauses recording  
-  - ▶️ Resumes when microphone access returns  
+  - ▶️ Automatically pauses recording  
+  - ⏸️ Resumes when microphone access returns  
 - ⚡ Built with Expo for quick development  
 
 ---
 
 ## 📸 Screenshot
 Screenshot shows the **microphone access permission** during app usage.  
-[View Screenshot](https://drive.google.com/file/d/1U8VphPiHJgcP73HJCvfKJb39MePtLkXe/view?usp=drivesdk)
+[View Screenshot](https://drive.google.com/file/d/1F5VaUFdCDt7heAeLR79HyaV0LXVy63P0/view?usp=drivesdk)
+
 
 ---
 
 ## 🎥 Demo Video
 Watch the demo video showing recording, pause/resume, background recording, and playback.  
-[Watch Demo Video](https://drive.google.com/file/d/1F5VaUFdCDt7heAeLR79HyaV0LXVy63P0/view?usp=drivesdk)
-
+[Watch Demo Video](https://drive.google.com/file/d/1U8VphPiHJgcP73HJCvfKJb39MePtLkXe/view?usp=drivesdk)
 ---
 
 ## 🛠️ Installation & Run Instructions
