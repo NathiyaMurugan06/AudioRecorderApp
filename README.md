@@ -1,32 +1,38 @@
-# Audio Recorder App (React Native + Expo)
+# 🎙️ Audio Recorder App (React Native + Expo)
 
-A simple mobile app built with **React Native (Expo)** that records audio reliably with pause/resume, background recording, and playback.
+A simple and reliable React Native mobile app built with **Expo** that records audio with pause/resume functionality, background support, and playback.  
+
+This project is part of a **Mobile App Developer assignment**.
 
 ---
 
 ## 🚀 Features
-
-- 🎙️ Start, Pause, Resume, and Stop recording
-- 📂 Saves recording locally on device
-- ▶️ Play back saved recordings
-- 📱 Recording continues in background when app is minimized
-- 📞 Handles microphone interruptions (e.g., phone calls)
-  - Automatically pauses recording
-  - Resumes when microphone access returns
-- ⚡ Built with Expo for quick development
+- 🎙️ Start, Pause, Resume, and Stop recording  
+- 📂 Saves recording locally on device  
+- ▶️ Play back saved recordings  
+- 📱 Recording continues in background when app is minimized  
+- 📞 Handles microphone interruptions (e.g., phone calls)  
+  - ⏸️ Automatically pauses recording  
+  - ▶️ Resumes when microphone access returns  
+- ⚡ Built with Expo for quick development  
 
 ---
 
-## 📋 Requirements
+## 📸 Screenshot
+Screenshot shows the **microphone access permission** during app usage.  
+[View Screenshot](https://drive.google.com/file/d/1U8VphPiHJgcP73HJCvfKJb39MePtLkXe/view?usp=drivesdk)
 
-- Node.js (>= 16 recommended)
-- Expo CLI
+---
 
-Install Expo CLI globally (if not already):
+## 🎥 Demo Video
+Watch the demo video showing recording, pause/resume, background recording, and playback.  
+[Watch Demo Video](https://drive.google.com/file/d/1F5VaUFdCDt7heAeLR79HyaV0LXVy63P0/view?usp=drivesdk)
 
-```bash
-npm install -g expo-cli
-git clone <your-repo-link>
-cd AudioRecorderApp
-npm install
-```
+---
+
+## 🛠️ Installation & Run Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/NathiyaMurugan06/AudioRecorderApp.git
+   cd AudioRecorderApp
