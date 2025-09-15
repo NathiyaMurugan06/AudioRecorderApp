@@ -24,7 +24,7 @@ Screenshot shows the **microphone access permission** during app usage.
 ---
 
 ## 🎥 Demo Video
-Watch the demo video showing recording, pause/resume, background recording, and playback.  
+Watch the demo video showing recording, pause/resume, background recording,phone call scenario and playback.  
 [Watch Demo Video](https://drive.google.com/file/d/1U8VphPiHJgcP73HJCvfKJb39MePtLkXe/view?usp=drivesdk)
 
 
