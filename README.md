@@ -36,3 +36,8 @@ Watch the demo video showing recording, pause/resume, background recording, and 
    ```bash
    git clone https://github.com/NathiyaMurugan06/AudioRecorderApp.git
    cd AudioRecorderApp
+2. Install dependencies:
+   npm install
+3. Start the Expo development server:
+   npx expo start
+4. Scan the QR code using Expo Go app on your Android/iOS device to run the app.
