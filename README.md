@@ -2,8 +2,6 @@
 
 A simple and reliable React Native mobile app built with **Expo** that records audio with pause/resume functionality, background support, and playback.  
 
-This project is part of a **Mobile App Developer assignment**.
-
 ---
 
 ## 🚀 Features
